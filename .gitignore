@@ -1,0 +1,14 @@
+﻿.venv/
+__pycache__/
+*.py[cod]
+.env
+.env.*
+!.env.example
+*.log
+.pytest_cache/
+logs/
+data/raw/
+data/rejected/
+models/*.joblib
+models/*.pkl
+data/processed/
